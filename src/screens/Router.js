@@ -22,6 +22,11 @@ import PageActivityIndicator from '../components/loader/PageActivityIndicator';
 export default function Router() {
     const router = createBrowserRouter([
         {
+            path: "/IndependentCinemaFrontend",
+            element: <HomeScreen />,
+            loader: HomeLoader,
+        },
+        {
             path: "/",
             element: <HomeScreen />,
             loader: HomeLoader,
