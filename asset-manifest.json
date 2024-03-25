@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IndependentCinemaFrontend/static/css/main.e6c13ad2.css",
+    "main.js": "/IndependentCinemaFrontend/static/js/main.c1f5eb95.js",
+    "static/js/787.fa79b8c8.chunk.js": "/IndependentCinemaFrontend/static/js/787.fa79b8c8.chunk.js",
+    "index.html": "/IndependentCinemaFrontend/index.html",
+    "main.e6c13ad2.css.map": "/IndependentCinemaFrontend/static/css/main.e6c13ad2.css.map",
+    "main.c1f5eb95.js.map": "/IndependentCinemaFrontend/static/js/main.c1f5eb95.js.map",
+    "787.fa79b8c8.chunk.js.map": "/IndependentCinemaFrontend/static/js/787.fa79b8c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c1f5eb95.js"
+  ]
+}
